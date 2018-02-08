@@ -12,7 +12,7 @@
         </header>
         <nav>
             <hr id="navHr">
-            <a href="index.html">Home</a>
+            <a href="index.php">Home</a>
             <a href="windows.html">Windows</a>
             <a href="osx.html">MacOS</a>
             <a href="linux.html">Linux</a>
