@@ -1,0 +1,79 @@
+body{
+    color: white;
+    /*background-image:url('https://ak4.picdn.net/shutterstock/videos/29797054/thumb/1.jpg');*/
+    background-color: #383838;
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size:cover;*/
+    /*height:100%;*/
+}
+
+header, nav{
+    text-align:center;
+}
+
+nav a{
+    padding:10px;
+    padding-bottom: 5px;
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover{
+    border-bottom: 3px orange solid;
+    border-top:3px orange solid;
+    transition: .5s;
+    box-shadow: inset 0 0 0 2em #53a7ea;
+    font-size: 2.5em;
+}
+
+nav{
+    padding-bottom: .8em
+}
+
+article {
+    text-align: left;
+}
+
+footer,footer a{
+    clear: both;
+    color:white;
+    text-decoration: none;
+}
+
+main,footer{
+    text-align: center;
+    width:50em;
+    margin:0px auto;
+}
+
+#navHr{
+    width:50em;
+}
+
+#MainPic{
+    float:left;
+    padding-top: 5em;
+    padding-left:5em;
+    margin-left: 3em;
+}
+
+.osxPic{
+    float:left;
+    padding-top: 15em;
+    padding-left:5em;
+    margin-left: 3em;
+}
+
+#windowsPic{
+    float:left;
+    padding-top:10em;
+    padding-left:5em;
+    margin-left: 3em;
+}
+
+.OSTxt{
+    width:23em;
+    float: right;
+}
